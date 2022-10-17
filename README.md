@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inchervity
-- 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning c sharp
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 How to reach me: soon 
 
